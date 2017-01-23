@@ -82,10 +82,6 @@
     "ustring": "^1.4.1",
     "whatwg-fetch": "^0.10.0"
   },
-  "peerDependencies": {
-    "react": ">=0.14.0 || >=15.0.0",
-    "react-dom": ">=0.14.0 || >=15.0.0"
-  },
   "author": "ZippyUI <contact@zippyui.com>",
   "contributors": [],
   "license": "MIT",
